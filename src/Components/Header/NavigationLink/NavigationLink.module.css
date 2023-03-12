@@ -1,0 +1,22 @@
+/* External Fonts */
+@font-face {
+    font-family: Altmann-R;
+    src: url(/public/fonts/AltmannGrotesk-Regular.ttf);
+}
+
+
+.boardLink {
+    color: #218AC9;
+    margin: 10px 20px 10px 20px;
+    font-size: 24px;
+    font-family: Altmann-R;
+    text-decoration: none;
+}
+
+.activeLink {
+    color: #045687;
+    margin: 10px 20px 10px 20px;
+    font-size: 24px;
+    font-family: Altmann-R;
+    text-decoration: none;
+}

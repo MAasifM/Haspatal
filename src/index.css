@@ -1,3 +1,4 @@
-body{
-    background-color: lightblue;
+html,
+body {
+    height: 100vh;
 }
